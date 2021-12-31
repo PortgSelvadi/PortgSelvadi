@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SignurGian
 - 👀 I’m interested in writing code, reading books, motorcycles, travelling, having a good time with my family ...
-- 🌱 I’m currently learning Svelte. I'm just an enthusiastic hobbyist! 🥸
+- 🌱 I’m currently learning Go. I'm just an enthusiastic hobbyist! 🥸
 - 📫 How to reach me: signurgian at thinkpool.ch
 
 <!---
